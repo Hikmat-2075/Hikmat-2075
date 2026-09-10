@@ -9,10 +9,10 @@ Backend Developer, mahasiswa S1 Informatika di Telkom University yang sudah dite
 
 ### Tech Stack
 
-**Backend:** Node.js · Express · NestJS · Prisma · Java (Spring Boot)
-**Mobile & Frontend:** Flutter · Next.js · React
-**Database:** PostgreSQL · MySQL · MongoDB
-**Tools:** Docker · JWT · Git · Postman
+- **Backend:** Node.js · Express · NestJS · Prisma · Java (Spring Boot)
+- **Mobile & Frontend:** Flutter · Next.js · React
+- **Database:** PostgreSQL · MySQL · MongoDB
+- **Tools:** Docker · JWT · Git · Postman
 
 ### Proyek Unggulan
 
@@ -24,7 +24,3 @@ Backend Developer, mahasiswa S1 Informatika di Telkom University yang sudah dite
 | [rental-kendaraan-be](https://github.com/Hikmat-2075/rental-kendaraan-be) | Backend API sistem rental kendaraan: armada, transaksi, pembayaran (Java Spring Boot) |
 | [rental-kendaraan-fe](https://github.com/Hikmat-2075/rental-kendaraan-fe) | Frontend sistem rental kendaraan, companion dari rental-kendaraan-be (Next.js) |
 | [node-backend-starter](https://github.com/Hikmat-2075/node-backend-starter) | Starter template backend Express + Prisma + JWT dengan struktur domain modular |
-
-### Statistik GitHub
-
-![Hikmat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hikmat-2075&show_icons=true&theme=default&hide_title=true)
