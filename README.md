@@ -5,7 +5,7 @@ Backend Developer, mahasiswa S1 Informatika di Telkom University yang sudah dite
 - 🔭 Sedang mengerjakan Tugas Akhir tentang deteksi ASD berbasis graph deep learning
 - 💼 Berpengalaman membangun backend untuk sistem payroll/HR dan rental kendaraan
 - 🌱 Belajar riset ML: graph-based methods & multimodal data fusion
-- 📫 Kontak: hikamt2075@gmail.com
+- 📫 Kontak: hikmatngrha@gmail.com
 
 ### Tech Stack
 
