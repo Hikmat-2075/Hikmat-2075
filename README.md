@@ -1,6 +1,6 @@
 ### Halo, saya Hikmat Arif Nugraha 👋
 
-Backend Developer, mahasiswa S1 Informatika di Telkom University yang sudah diterima di program fast-track S2 Informatika (konsentrasi Data Science). Saat ini sedang mendalami riset machine learning, khususnya graph-based methods dan multimodal data fusion untuk aplikasi neuroscience.
+Backend Developer, mahasiswa S1 Informatika di Telkom University Saat ini sedang mendalami riset machine learning, khususnya graph-based methods dan multimodal data fusion untuk aplikasi neuroscience.
 
 - 🔭 Sedang mengerjakan Tugas Akhir tentang deteksi ASD berbasis graph deep learning
 - 💼 Berpengalaman membangun backend untuk sistem payroll/HR dan rental kendaraan
